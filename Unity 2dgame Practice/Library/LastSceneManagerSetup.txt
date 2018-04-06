@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/two way to create 2dAni.unity
+- path: Assets/physic2D test.unity
   isLoaded: 1
   isActive: 1
