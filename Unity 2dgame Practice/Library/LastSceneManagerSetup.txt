@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/physic2D test.unity
+- path: Assets/fish game.unity
   isLoaded: 1
   isActive: 1
